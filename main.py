@@ -1,0 +1,1 @@
+print('import pomiędzy katalogami')
